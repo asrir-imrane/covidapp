@@ -4,9 +4,8 @@
  */
 package covidapp;
 
-import java.sql.SQLException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+import covidapp.Objects.userClass;
+
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 

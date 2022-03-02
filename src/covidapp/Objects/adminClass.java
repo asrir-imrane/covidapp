@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package covidapp;
+package covidapp.Objects;
 
 
 import java.awt.HeadlessException;
@@ -18,7 +18,7 @@ import javax.swing.table.DefaultTableModel;
 
 public class adminClass {
     
-   static int nbr_ligne_chercher;
+   public static int nbr_ligne_chercher;
     adminClass(){
        Connection conn=null;  
         PreparedStatement stmt=null;

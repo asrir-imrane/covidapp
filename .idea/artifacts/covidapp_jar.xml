@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="covidapp:jar">
+    <output-path>$PROJECT_DIR$/covidapp_jar</output-path>
+    <root id="archive" name="covidapp.jar">
+      <element id="module-output" name="covidapp" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jar/poi-5.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jar/poi-ooxml-5.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jar/poi-javadoc-5.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jar/poi-examples-5.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jar/poi-excelant-5.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jar/poi-ooxml-full-5.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jar/poi-ooxml-lite-5.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jar/poi-scratchpad-5.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jar/mysql-connector-java-8.0.28.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

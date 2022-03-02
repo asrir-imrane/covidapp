@@ -5,6 +5,9 @@
 package covidapp;
 
 
+import covidapp.Objects.adminClass;
+import covidapp.Objects.nbr_dose;
+
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
@@ -1077,7 +1080,7 @@ public class adminSection extends javax.swing.JFrame {
         jP77.setVisible(false);
         jP66.setVisible(false);
         
-String data[][]=adminClass.afficher();
+String data[][]= adminClass.afficher();
 
 DefaultTableModel model = (DefaultTableModel) jTable1.getModel();
 int j, nbr_eleve= adminClass.nbr_eleve();

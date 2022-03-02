@@ -10,12 +10,13 @@ import covidapp.Helpers.loggin;
  *
  * @author HP
  */
-public class NewMain {
+public class App {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
         new loggin().setVisible(true);
     }
 }
