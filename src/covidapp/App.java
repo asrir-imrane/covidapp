@@ -4,6 +4,8 @@
  */
 package covidapp;
 
+import covidapp.Helpers.loggin;
+
 /**
  *
  * @author HP
