@@ -95,7 +95,7 @@ public class loggin extends javax.swing.JFrame {
         );
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 0, 8)); // NOI18N
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/covidapp/rrrr.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/rrrr.png"))); // NOI18N
 
         check.setBackground(new java.awt.Color(204, 204, 204));
         check.setForeground(new java.awt.Color(51, 51, 51));
